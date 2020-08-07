@@ -4,6 +4,8 @@
 
 Convert GE MUSE version 8.0 xml file to csv
 
+![image](https://github.com/cgmhaicenter/EKG/blob/master/figs/ekg.png)
+
 ### Dependencies
 Requires the following libraries:
 
